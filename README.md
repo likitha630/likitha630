@@ -24,13 +24,14 @@
 
 # About Me
 
-Final-year **B.Tech Information Technology** student passionate about Software Engineering, Full Stack Development, Backend Engineering and AI-driven solutions. I enjoy building scalable applications, learning new technologies, and solving real-world problems.
-
+- 💻 Passionate about Software Development and Technology.
+- 🚀 Quick learner who enjoys exploring new technologies.
+- 🌱 Currently improving my skills in Java, Python, SQL, and Web Development.
+- 🎯 Looking for Software Engineer opportunities. -
+- 🤝 Love building real-world projects and solving problems.
 ### Open To
 - Software Engineer
-- Full Stack Developer
 - Python Developer
-- Backend Developer
 
 ---
 
@@ -86,7 +87,7 @@ Final-year **B.Tech Information Technology** student passionate about Software E
 
 # Experience
 
-### B.Tech Information Technology Student (2022–Present)
+### B.Tech Information Technology Student (2023–Present)
 
 - Developed multiple full-stack applications.
 - Practiced Data Structures and Algorithms.
@@ -115,8 +116,8 @@ Final-year **B.Tech Information Technology** student passionate about Software E
 # Coding Profiles
 
 - LeetCode: https://leetcode.com/u/Athukuri_Likitha15/
-- GeeksforGeeks: Likitha Athukuri
-- CodeChef: likithaumadevi
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/likithaumvepu/
+- CodeChef: https://www.codechef.com/users/likithaumadevi/
 
 ---
 
@@ -165,8 +166,6 @@ Learning:
   - Backend Engineering
 Building:
   - Full Stack Applications
-Exploring:
-  - Cloud Computing
 OpenTo:
   - Software Engineer
 ```
