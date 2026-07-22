@@ -2,6 +2,16 @@
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=220&section=header&text=Likitha%20Athukuri&fontSize=42&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Machine+Learning+Enthusiast;Python+Developer;Building+Scalable+Digital+Products;Open+Source+Contributor"/>
+<br/>
+
+![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-6A0DAD?style=for-the-badge)
+![University](https://img.shields.io/badge/Vignan's%20Foundation%20for%20Science%20Technology%20and%20Research-Student-4361EE?style=for-the-badge)
+![Graduation](https://img.shields.io/badge/Graduation-2027-7B2CBF?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Guntur%2C%20India-5A189A?style=for-the-badge)
+
+<br/>
+
 </p>
 
 <p align="center">
@@ -36,7 +46,6 @@
 - Full Stack Web Development
 - Open Source Contributions
 - Scalable System Design
-- 
 ### Open To
 - Software Engineer
 - Python Developer
@@ -134,13 +143,6 @@ A comprehensive travel management platform designed to simplify trip planning by
 Selected among the Top 7 teams nationwide and qualified for the Grand Finale with VahanBazar, an intelligent two-wheeler marketplace platform.
 
 ### Scope of Work
-
-- Designed database schemas
-- Managed data modeling
-- Supported backend integration
-- Assisted analytics workflows
-- Contributed to technical presentations
-  ### Scope of Work
 
 - Designed database schemas
 - Managed data modeling
@@ -245,7 +247,7 @@ Serving as a Coordinator in the **Public Relations & Digital Media (PR & DM)** t
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href=" https://www.linkedin.com/in/likitha-athukuri-8592a5331/">
+<a href="https://www.linkedin.com/in/likitha-athukuri-8592a5331/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
